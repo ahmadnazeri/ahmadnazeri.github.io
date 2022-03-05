@@ -1,7 +1,7 @@
 ---
 title: "Why Blog?"
 date: 2022-03-05T18:06:00-05:00
-draft: true
+draft: false
 
 tags: ["growth mindset", "unfolding my myth"]
 
