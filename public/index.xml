@@ -1,9 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Ahmad Nazeri</title>
-        <link>https://ahmadnazeri.github.io/</link>
-        <description>This is a personal blog focused on improving my writing through writing about my passions. These passions include but not limited to engineer, self-help, Afghanistan, quotes, personal projects. </description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
-            <atom:link href="https://ahmadnazeri.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
-</rss>
