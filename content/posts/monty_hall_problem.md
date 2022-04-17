@@ -1,6 +1,6 @@
 ---
 title: "The Monty Hall Problem"
-date: 2022-04-17T00:47:00-05:00
+date: 2022-04-16T00:47:00-05:00
 draft: false
 
 tags: ["monty_hall_problem", "to script or to not script"]
